@@ -1,8 +1,8 @@
-# iOS & macOS Development
+# Разработка iOS и macOS
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**29 skills**
+**29 навыков**
 
 - [agent-defibrillator](https://github.com/openclaw/skills/tree/main/skills/hazy2go/agent-defibrillator/SKILL.md) - Watchdog that monitors your AI agent gateway and restarts it when it crashes.
 - [android-transfer-skill](https://github.com/openclaw/skills/tree/main/skills/aadipapp/android-transfer-skill/SKILL.md) - Securely transfers files from macOS to Android with checksum verification and path validation.

@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5490+ community-built OpenClaw skills, organized by category.
+    <strong>Откройте для себя 5490+ навыков OpenClaw от сообщества, сгруппированных по категориям.
     </strong>
     <br />
     <br />
@@ -26,75 +26,75 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-clawdbot-skills/network/members)
 </div>
 
-# Awesome OpenClaw Skills
+# Потрясающие навыки OpenClaw
 
-OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+OpenClaw (ранее Moltbot, а изначально Clawdbot — да, с кризисом идентичности) — это локальный ИИ-ассистент, который работает прямо на вашем компьютере. Навыки расширяют его возможности: позволяют взаимодействовать с внешними сервисами, автоматизировать рабочие процессы и выполнять специализированные задачи. Этот список помогает найти и установить подходящие навыки под ваши потребности.
 
-Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
+Навыки в этом списке взяты из [ClawHub](https://www.clawhub.ai/) (публичный реестр навыков OpenClaw) и разбиты по категориям для удобного поиска.
 
-👋[Say hi on X!](https://x.com/nozmen)
+👋[Напишите в X!](https://x.com/nozmen)
 
-## Installation
+## Установка
 
 ### ClawHub CLI
 
-> **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
+> **Примечание:** как вы, вероятно, знаете, они постоянно всё переименовывают. Здесь отражено текущее состояние официальной документации. Мы обновим это, когда название снова изменится.
 
 ```bash
 npx clawhub@latest install <skill-slug>
 ```
 
-### Manual Installation
+### Ручная установка
 
-Copy the skill folder to one of these locations:
+Скопируйте папку навыка в одно из этих расположений:
 
-| Location | Path |
+| Расположение | Путь |
 |----------|------|
-| Global | `~/.openclaw/skills/` |
-| Workspace | `<project>/skills/` |
+| Глобально | `~/.openclaw/skills/` |
+| Рабочая директория | `<project>/skills/` |
 
-Priority: Workspace > Local > Bundled
+Приоритет: Workspace > Local > Bundled
 
-### Alternative
+### Альтернативный способ
 
-You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+Вы также можете вставить ссылку на GitHub-репозиторий навыка прямо в чат ассистента и попросить использовать его. Ассистент автоматически выполнит настройку в фоне.
 
 
-## Why This List Exists?
+## Зачем нужен этот список?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,494 skills**. Here's what we filtered out:
+В публичном реестре OpenClaw (ClawHub) на 28 февраля 2026 года размещено **13 729 навыков от сообщества**. В этот список включено **5 494 навыка**. Вот что мы отфильтровали:
 
-| Filter | Excluded |
+| Фильтр | Исключено |
 |--------|----------|
-| Possibly spam — bulk accounts, bot accounts, test/junk | 4,065 |
-| Duplicate / Similar name | 1,040 |
-| Non-English — descriptions not in English | 604 |
-| Crypto / Blockchain / Finance / Trade | 573 |
-| Malicious — identified by security audits published by researchers (excluding VirusTotal) | 373 |
-| No or inadequate description — version numbers, metadata, under 3 words | 247 |
-| ERC / x402 / a2a protocol skills | 38 |
-| **Total not taken from OpenClaw's official skill registry** | **6,940** |
+| Вероятный спам — массовые аккаунты, боты, тестовый/мусорный контент | 4,065 |
+| Дубликаты / похожие названия | 1,040 |
+| Не на английском — описания не на английском | 604 |
+| Крипто / блокчейн / финансы / трейдинг | 573 |
+| Вредоносные — выявлены исследованиями по безопасности (без учёта VirusTotal) | 373 |
+| Нет или недостаточное описание — версии, метаданные, менее 3 слов | 247 |
+| Навыки протоколов ERC / x402 / a2a | 38 |
+| **Всего не включено из официального реестра навыков OpenClaw** | **6,940** |
 
 
-## Security Notice
+## Уведомление о безопасности
 
-Skills in this list are **curated, not audited**. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
+Навыки в этом списке **отобраны, но не прошли аудит**. После добавления сюда они могут быть обновлены, изменены или заменены их исходными сопровождающими в любой момент.
 
-Before installing or using any Agent Skill, review potential security risks and validate the source yourself. OpenClaw has a **VirusTotal partnership** that provides security scanning for skills, visit a skill's page on ClawHub and check the VirusTotal report to see if it's flagged as risky.
+Перед установкой или использованием любого Agent Skill оцените потенциальные риски безопасности и проверьте источник самостоятельно. OpenClaw сотрудничает с **VirusTotal** для сканирования навыков: откройте страницу навыка на ClawHub и проверьте отчёт VirusTotal, чтобы увидеть, помечен ли он как рискованный.
 
-**Recommended tools:**
+**Рекомендуемые инструменты:**
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
-> Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
+> Навыки агентов могут содержать prompt-injection, отравление инструментов, скрытые вредоносные полезные нагрузки или небезопасные шаблоны работы с данными. Всегда проверяйте исходный код перед установкой и используйте навыки на свой страх и риск.
 
-**Want to add a skill?** This list only includes skills that are **already published** in the `github.com/openclaw/skills` repository. We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+**Хотите добавить навык?** В этот список включаются только навыки, которые **уже опубликованы** в репозитории `github.com/openclaw/skills`. Мы не принимаем ссылки на личные репозитории, gists и другие внешние источники. Если вашего навыка ещё нет в репозитории OpenClaw skills, сначала опубликуйте его там. Подробности — в [CONTRIBUTING.md](CONTRIBUTING.md).
 
-If you believe a skill in this list should be flagged or has a security concern, please [open an issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues) so we can review it.
+Если вы считаете, что навык из этого списка нужно пометить или он вызывает опасения по безопасности, пожалуйста, [создайте issue](https://github.com/VoltAgent/awesome-clawdbot-skills/issues), и мы его проверим.
 
 
-## Table of Contents
+## Содержание
 
 | | | |
 |---|---|---|
@@ -111,15 +111,15 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Health & Fitness](#health--fitness) (88) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17) | |
 
 
-## OpenClaw Deployment Stack
+## Стек развёртывания OpenClaw
 
- Setup, hosting, and deployment providers for OpenClaw agents.
+ Поставщики настройки, хостинга и развёртывания для агентов OpenClaw.
 
-**Sponsor spots are reserved for hosting, deployment, and setup providers serving OpenClaw developers & users.** 
+**Места спонсоров зарезервированы для провайдеров хостинга, развёртывания и настройки для разработчиков и пользователей OpenClaw.** 
 
-📈 Monthly 240,000 unique visitors from the OpenClaw audience.
+📈 240 000 уникальных посетителей в месяц из аудитории OpenClaw.
 
-📩 For sponsorship inquiries, reach out at necati@voltagent.dev
+📩 По вопросам спонсорства: necati@voltagent.dev
 
 <br/>
 
@@ -129,13 +129,13 @@ If you believe a skill in this list should be flagged or has a security concern,
 <img src="https://placehold.co/800x120/1a1a2e/FFD700?text=Gold+Sponsor-[RESERVED]+&font=montserrat" alt="Gold Sponsor" width="800" height="120" />
 </a>
 
-<sub>Your product description here — a one-liner about what you offer to OpenClaw developers.</sub>
+<sub>Описание вашего продукта — одна строка о том, что вы предлагаете разработчикам OpenClaw.</sub>
 
 <br/>
 
 <a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor+[RESERVED]&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>&nbsp;&nbsp;&nbsp;<a href="#your-link-here"><img src="https://placehold.co/380x90/1a1a2e/C0C0C0?text=Silver+Sponsor&font=montserrat" alt="Silver Sponsor" width="380" height="90" /></a>
 
-<sub>Short description here.</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Short description here.</sub>
+<sub>Краткое описание здесь.</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Краткое описание здесь.</sub>
 
 <br/>
 
@@ -153,7 +153,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 
 <details open>
-<summary><h3 style="display:inline">Git & GitHub</h3></summary>
+<summary><h3 style="display:inline">Git и GitHub</h3></summary>
 
 - [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.
@@ -184,7 +184,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
+<summary><h3 style="display:inline">Кодовые агенты и IDE</h3></summary>
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.
@@ -217,7 +217,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Browser & Automation</h3></summary>
+<summary><h3 style="display:inline">Браузер и автоматизация</h3></summary>
 
 - [1p-shortlink](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/1p-shortlink/SKILL.md) - Create short URLs and submit feature requests using 1p.io.
 - [2captcha](https://github.com/openclaw/skills/tree/main/skills/adinvadim/2captcha/SKILL.md) - Solve CAPTCHAs using 2Captcha service.
