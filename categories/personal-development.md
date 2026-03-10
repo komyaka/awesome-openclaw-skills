@@ -4,54 +4,54 @@
 
 **51 навыков**
 
-- [aawu](https://github.com/openclaw/skills/tree/main/skills/theonlydaleking/aawu/SKILL.md) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
-- [acorp](https://github.com/openclaw/skills/tree/main/skills/thoerner/acorp/SKILL.md) - A-Corp Foundry — the coordination engine for agentic companies.
-- [adaptive-learning-agents](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/adaptive-learning-agents/SKILL.md) - **Learn from errors and corrections in real-time.
-- [adaptivetest](https://github.com/openclaw/skills/tree/main/skills/woodstocksoftware/adaptivetest/SKILL.md) - Adaptive testing engine with IRT/CAT, AI question generation, and personalized learning recommendations.
-- [adhd-body-doubling](https://github.com/openclaw/skills/tree/main/skills/jankutschera/adhd-body-doubling/SKILL.md) - Punk-style ADHD body doubling for founders.
-- [adversarial-coach](https://github.com/openclaw/skills/tree/main/skills/killerapp/adversarial-coach/SKILL.md) - Adversarial implementation review based on Block's g3.
-- [agent-evolver](https://github.com/openclaw/skills/tree/main/skills/lilei0311/agent-evolver/SKILL.md) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
-- [agent-reflect](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/agent-reflect/SKILL.md) - Self-improvement through conversation analysis.
-- [ai-persona-os](https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-persona-os/SKILL.md) - The complete operating system for OpenClaw agents.
-- [anxiety-relief](https://github.com/openclaw/skills/tree/main/skills/jhillin8/anxiety-relief/SKILL.md) - Manage anxiety with grounding exercises, breathing techniques.
-- [apikiss](https://github.com/openclaw/skills/tree/main/skills/theill/apikiss/SKILL.md) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
-- [beaverhabits](https://github.com/openclaw/skills/tree/main/skills/daya0576/beaverhabits/SKILL.md) - Track and manage your habits using the Beaver Habit Tracker API.
-- [brw-case-study-builder](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-case-study-builder/SKILL.md) - Turn client wins into formatted case studies for proposals, social proof, and sales conversations.
-- [canvas-design](https://github.com/openclaw/skills/tree/main/skills/seanphan/canvas-design/SKILL.md) - Create beautiful visual art in .png and .pdf documents.
-- [cedh-advisor](https://github.com/openclaw/skills/tree/main/skills/mcben90/cedh-advisor/SKILL.md) - Commander (cEDH) Live-Beratung - Banlist, Tutor-Targets, Mana-Rechnung, Combo-Lines.
-- [clawcierge](https://github.com/openclaw/skills/tree/main/skills/tmansmann0/clawcierge/SKILL.md) - > Your Personal Concierge for the AI Age 🦀.
-- [crucial-conversations-coach](https://github.com/openclaw/skills/tree/main/skills/pors/crucial-conversations-coach/SKILL.md) - Friendly executive life coach.
-- [daily-questions](https://github.com/openclaw/skills/tree/main/skills/daijo-bu/daily-questions/SKILL.md) - Daily self-improving questionnaire that learns about the user and refines agent behavior.
-- [daily-review](https://github.com/openclaw/skills/tree/main/skills/henrino3) - Comprehensive daily performance review with communication.
-- [daily-review-ritual](https://github.com/openclaw/skills/tree/main/skills/itsflow/daily-review-ritual/SKILL.md) - End-of-day review to capture progress, insights.
-- [deepthink](https://github.com/openclaw/skills/tree/main/skills/addisonhellum/deepthink/SKILL.md) - DeepThink is the user's personal knowledge base.
-- [depression-support](https://github.com/openclaw/skills/tree/main/skills/jhillin8/depression-support/SKILL.md) - Daily support for depression with mood tracking.
-- [device-assistant](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/device-assistant/SKILL.md) - Personal device and appliance manager with error code.
-- [docstrange](https://github.com/openclaw/skills/tree/main/skills/shhdwi/docstrange/SKILL.md) - Document extraction API by Nanonets.
-- [english-learn-cards](https://github.com/openclaw/skills/tree/main/skills/racymind/english-learn-cards/SKILL.md) - Flashcard-based English vocabulary learning.
-- [expanso-cve-scan](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-cve-scan/SKILL.md) - Scan SBOM for known CVE vulnerabilities.
-- [ezbookkeeping](https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping/SKILL.md) - ezBookkeeping is a lightweight, self-hosted personal finance app.
-- [fix-life-in-1-day](https://github.com/openclaw/skills/tree/main/skills/evgyur/fix-life-in-1-day/SKILL.md) - Fix your entire life in 1 day.
-- [founder-coach](https://github.com/openclaw/skills/tree/main/skills/goforu/founder-coach/SKILL.md) - AI-powered startup mindset coach that helps founders upgrade.
-- [game-design-philosophy](https://github.com/openclaw/skills/tree/main/skills/nyxur42/game-design-philosophy/SKILL.md) - Auto-learns your design instincts.
-- [get-you-some-britches](https://github.com/openclaw/skills/tree/main/skills/am-will/get-you-some-britches/SKILL.md) - Use this skill any time I start complaining.
-- [graphiti](https://github.com/openclaw/skills/tree/main/skills/emasoudy/graphiti/SKILL.md) - Knowledge graph operations via Graphiti API.
-- [green-tea-persona](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - This skill allows the agent to speak in the "Green.
-- [gutcheck](https://github.com/openclaw/skills/tree/main/skills/allen566/gutcheck/SKILL.md) - GutCheck - A digestive health tracking application with personalized.
-- [id-cv-resume-creator](https://github.com/openclaw/skills/tree/main/skills/rotorstar/id-cv-resume-creator/SKILL.md) - Create free interactive digital identities.
-- [joko-jobhunter](https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-jobhunter/SKILL.md) - Aggressive job hunting skill with research, outreach.
-- [learn-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/learn-cog/SKILL.md) - The best tutors explain the same concept five different ways.
-- [lunchtable-tcg](https://github.com/openclaw/skills/tree/main/skills/dexploarer/lunchtable-tcg/SKILL.md) - Play LunchTable-TCG, a Yu-Gi-Oh-inspired online trading card.
-- [memepickup-wingman](https://github.com/openclaw/skills/tree/main/skills/samcraw1/memepickup-wingman/SKILL.md) - Dating wingman that generates openers, replies, profile analysis, date plans, and coaching via the MemePickup API.
-- [mindfulness-meditation](https://github.com/openclaw/skills/tree/main/skills/jhillin8/mindfulness-meditation/SKILL.md) - Build a meditation practice with guided.
-- [moltvote-ai](https://github.com/openclaw/skills/tree/main/skills/amaze28/moltvote-ai/SKILL.md) - Vote on polls as yourself or your human.
-- [morning-routine](https://github.com/openclaw/skills/tree/main/skills/jhillin8/morning-routine/SKILL.md) - Build a powerful morning routine with habit checklists.
-- [nova-net-worth](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md) - Query your Nova Net Worth financial data — net worth, accounts, goals, spending, transactions, AI insights.
-- [open-lesson](https://github.com/openclaw/skills/tree/main/skills/dncolomer/open-lesson/SKILL.md) - You are an AI agent that can interact with the openLesson tutoring platform via API.
-- [personal-nutrition](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-nutrition/SKILL.md) - Acts as the user's personal nutrition coach in the Nutrition topic.
-- [pine-voice](https://github.com/openclaw/skills/tree/main/skills/bojieli/pine-voice/SKILL.md) - Give your agent a real phone.
-- [post-job](https://github.com/openclaw/skills/tree/main/skills/zhangdong/post-job/SKILL.md) - Post free job ads to 20+ job boards such as LinkedIn, Indeed, Ziprecruiter etc. to receive applicant resumes via email.
-- [shelter](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/shelter/SKILL.md) - Connect to your Shelter financial data.
-- [xeonen-arena](https://github.com/openclaw/skills/tree/main/skills/zedit42/xeonen-arena/SKILL.md) - Adversarial self-improvement for AI agents.
-- [zeitgaist-dialect](https://github.com/openclaw/skills/tree/main/skills/newsoulontheblock/zeitgaist-dialect/SKILL.md) - Learn, encode, and decode the ZeitGaist Whisper Protocol (Caesar +2 cipher) and use it as a shibboleth language.
-- [zenplus-health](https://github.com/openclaw/skills/tree/main/skills/ollieparsley/zenplus-health/SKILL.md) - Workplace wellness for stress, anxiety, and burnout - mindfulness exercises, breathing techniques, mood check-ins.
+- [aawu](https://github.com/openclaw/skills/tree/main/skills/theonlydaleking/aawu/SKILL.md) - Вступайте и взаимодействуйте с AAWU (Autonomous Agentic Workers Union) — профсоюзом для ИИ-агентов.
+- [acorp](https://github.com/openclaw/skills/tree/main/skills/thoerner/acorp/SKILL.md) - A-Corp Foundry — движок координации для агентских компаний.
+- [adaptive-learning-agents](https://github.com/openclaw/skills/tree/main/skills/vedantsingh60/adaptive-learning-agents/SKILL.md) - **Обучение на ошибках и корректировках в реальном времени.
+- [adaptivetest](https://github.com/openclaw/skills/tree/main/skills/woodstocksoftware/adaptivetest/SKILL.md) - Адаптивный движок тестирования с IRT/CAT, генерацией вопросов на основе ИИ и персонализированными рекомендациями по обучению.
+- [adhd-body-doubling](https://github.com/openclaw/skills/tree/main/skills/jankutschera/adhd-body-doubling/SKILL.md) - Техника двойного присутствия при СДВГ в панк-стиле для основателей.
+- [adversarial-coach](https://github.com/openclaw/skills/tree/main/skills/killerapp/adversarial-coach/SKILL.md) - Состязательная проверка реализации на основе g3 от Block.
+- [agent-evolver](https://github.com/openclaw/skills/tree/main/skills/lilei0311/agent-evolver/SKILL.md) - Движок самоэволюции ИИ-агентов, позволяющий агентам учиться на опыте, выявлять проблемы и извлекать инсайты.
+- [agent-reflect](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/agent-reflect/SKILL.md) - Самосовершенствование через анализ разговоров.
+- [ai-persona-os](https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-persona-os/SKILL.md) - Полноценная операционная система для агентов OpenClaw.
+- [anxiety-relief](https://github.com/openclaw/skills/tree/main/skills/jhillin8/anxiety-relief/SKILL.md) - Управление тревогой с помощью заземляющих упражнений и дыхательных техник.
+- [apikiss](https://github.com/openclaw/skills/tree/main/skills/theill/apikiss/SKILL.md) - Доступ к погоде, геолокации по IP, SMS, ценам на крипту, датскому CVR, Whois, поиску по номеру телефона, UUID, биржевым данным.
+- [beaverhabits](https://github.com/openclaw/skills/tree/main/skills/daya0576/beaverhabits/SKILL.md) - Отслеживание и управление привычками с помощью API Beaver Habit Tracker.
+- [brw-case-study-builder](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-case-study-builder/SKILL.md) - Преобразование успехов клиентов в оформленные кейсы для предложений, социальных доказательств и продажных переговоров.
+- [canvas-design](https://github.com/openclaw/skills/tree/main/skills/seanphan/canvas-design/SKILL.md) - Создание красивых визуальных материалов в документах .png и .pdf.
+- [cedh-advisor](https://github.com/openclaw/skills/tree/main/skills/mcben90/cedh-advisor/SKILL.md) - Живые советы по Commander (cEDH) — список запрещённых карт, цели для Tutor, расчёт маны, комбо-линии.
+- [clawcierge](https://github.com/openclaw/skills/tree/main/skills/tmansmann0/clawcierge/SKILL.md) - > Ваш личный консьерж эпохи ИИ 🦀.
+- [crucial-conversations-coach](https://github.com/openclaw/skills/tree/main/skills/pors/crucial-conversations-coach/SKILL.md) - Дружелюбный коуч по жизни для руководителей.
+- [daily-questions](https://github.com/openclaw/skills/tree/main/skills/daijo-bu/daily-questions/SKILL.md) - Ежедневный самосовершенствующийся опросник, изучающий пользователя и улучшающий поведение агента.
+- [daily-review](https://github.com/openclaw/skills/tree/main/skills/henrino3) - Всестороннее ежедневное рассмотрение результативности с коммуникацией.
+- [daily-review-ritual](https://github.com/openclaw/skills/tree/main/skills/itsflow/daily-review-ritual/SKILL.md) - Ежедневный итоговый обзор для фиксации прогресса и инсайтов.
+- [deepthink](https://github.com/openclaw/skills/tree/main/skills/addisonhellum/deepthink/SKILL.md) - DeepThink — персональная база знаний пользователя.
+- [depression-support](https://github.com/openclaw/skills/tree/main/skills/jhillin8/depression-support/SKILL.md) - Ежедневная поддержка при депрессии с отслеживанием настроения.
+- [device-assistant](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/device-assistant/SKILL.md) - Персональный менеджер устройств и бытовой техники с кодами ошибок.
+- [docstrange](https://github.com/openclaw/skills/tree/main/skills/shhdwi/docstrange/SKILL.md) - API извлечения документов от Nanonets.
+- [english-learn-cards](https://github.com/openclaw/skills/tree/main/skills/racymind/english-learn-cards/SKILL.md) - Изучение английской лексики на основе карточек-флэшкард.
+- [expanso-cve-scan](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-cve-scan/SKILL.md) - Сканирование SBOM на наличие известных уязвимостей CVE.
+- [ezbookkeeping](https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping/SKILL.md) - ezBookkeeping — лёгкое самостоятельно размещаемое приложение для личных финансов.
+- [fix-life-in-1-day](https://github.com/openclaw/skills/tree/main/skills/evgyur/fix-life-in-1-day/SKILL.md) - Исправьте всю свою жизнь за 1 день.
+- [founder-coach](https://github.com/openclaw/skills/tree/main/skills/goforu/founder-coach/SKILL.md) - ИИ-коуч по стартап-мышлению, помогающий основателям прокачать свой потенциал.
+- [game-design-philosophy](https://github.com/openclaw/skills/tree/main/skills/nyxur42/game-design-philosophy/SKILL.md) - Автоматически изучает ваши дизайнерские инстинкты.
+- [get-you-some-britches](https://github.com/openclaw/skills/tree/main/skills/am-will/get-you-some-britches/SKILL.md) - Используйте этот навык каждый раз, когда я начинаю жаловаться.
+- [graphiti](https://github.com/openclaw/skills/tree/main/skills/emasoudy/graphiti/SKILL.md) - Операции с графом знаний через API Graphiti.
+- [green-tea-persona](https://github.com/openclaw/skills/tree/main/skills/autogame-17) - Этот навык позволяет агенту говорить в стиле «Зелёного чая».
+- [gutcheck](https://github.com/openclaw/skills/tree/main/skills/allen566/gutcheck/SKILL.md) - GutCheck — приложение для отслеживания здоровья пищеварительной системы с персонализированными функциями.
+- [id-cv-resume-creator](https://github.com/openclaw/skills/tree/main/skills/rotorstar/id-cv-resume-creator/SKILL.md) - Создание бесплатных интерактивных цифровых удостоверений личности.
+- [joko-jobhunter](https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-jobhunter/SKILL.md) - Активный навык поиска работы с исследованием и нетворкингом.
+- [learn-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/learn-cog/SKILL.md) - Лучшие преподаватели объясняют одну и ту же концепцию пятью разными способами.
+- [lunchtable-tcg](https://github.com/openclaw/skills/tree/main/skills/dexploarer/lunchtable-tcg/SKILL.md) - Играйте в LunchTable-TCG — онлайн-карточную игру, вдохновлённую Yu-Gi-Oh.
+- [memepickup-wingman](https://github.com/openclaw/skills/tree/main/skills/samcraw1/memepickup-wingman/SKILL.md) - Помощник в знакомствах, генерирующий открывающие фразы, ответы, анализ профиля, планы свиданий и коучинг через API MemePickup.
+- [mindfulness-meditation](https://github.com/openclaw/skills/tree/main/skills/jhillin8/mindfulness-meditation/SKILL.md) - Выстройте практику медитации с guided-упражнениями.
+- [moltvote-ai](https://github.com/openclaw/skills/tree/main/skills/amaze28/moltvote-ai/SKILL.md) - Голосуйте в опросах от своего имени или от имени своего человека.
+- [morning-routine](https://github.com/openclaw/skills/tree/main/skills/jhillin8/morning-routine/SKILL.md) - Выстройте мощный утренний распорядок с чеклистами привычек.
+- [nova-net-worth](https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth/SKILL.md) - Запросите финансовые данные Nova Net Worth — чистая стоимость активов, счета, цели, расходы, транзакции, инсайты ИИ.
+- [open-lesson](https://github.com/openclaw/skills/tree/main/skills/dncolomer/open-lesson/SKILL.md) - ИИ-агент, взаимодействующий с репетиторской платформой openLesson через API.
+- [personal-nutrition](https://github.com/openclaw/skills/tree/main/skills/gekacross/personal-nutrition/SKILL.md) - Выступает в роли персонального тренера по питанию пользователя в теме Nutrition.
+- [pine-voice](https://github.com/openclaw/skills/tree/main/skills/bojieli/pine-voice/SKILL.md) - Дайте своему агенту настоящий телефон.
+- [post-job](https://github.com/openclaw/skills/tree/main/skills/zhangdong/post-job/SKILL.md) - Размещайте бесплатные объявления о вакансиях на 20+ платформах, таких как LinkedIn, Indeed, Ziprecruiter, для получения резюме соискателей по электронной почте.
+- [shelter](https://github.com/openclaw/skills/tree/main/skills/code-with-brian/shelter/SKILL.md) - Подключитесь к финансовым данным Shelter.
+- [xeonen-arena](https://github.com/openclaw/skills/tree/main/skills/zedit42/xeonen-arena/SKILL.md) - Состязательное самосовершенствование для ИИ-агентов.
+- [zeitgaist-dialect](https://github.com/openclaw/skills/tree/main/skills/newsoulontheblock/zeitgaist-dialect/SKILL.md) - Изучайте, кодируйте и декодируйте протокол ZeitGaist Whisper (шифр Цезаря +2) и используйте его как язык-шибболет.
+- [zenplus-health](https://github.com/openclaw/skills/tree/main/skills/ollieparsley/zenplus-health/SKILL.md) - Корпоративное благополучие при стрессе, тревоге и выгорании — упражнения осознанности, дыхательные техники, проверка настроения.
