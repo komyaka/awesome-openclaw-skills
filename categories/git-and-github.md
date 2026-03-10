@@ -1,8 +1,8 @@
-# Git & GitHub
+# Git и GitHub
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**170 skills**
+**170 навыков**
 
 - [agent-commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) - Consult, commit, extend, and challenge reasoning chains.
 - [agent-team-orchestration](https://github.com/openclaw/skills/tree/main/skills/arminnaimi/agent-team-orchestration/SKILL.md) - Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review workflows.

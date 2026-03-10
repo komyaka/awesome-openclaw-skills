@@ -1,8 +1,8 @@
-# Self-Hosted & Automation
+# Self-hosted и автоматизация
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**32 skills**
+**32 навыков**
 
 - [beacon](https://github.com/openclaw/skills/tree/main/skills/scottcjn/beacon/SKILL.md) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle/SKILL.md) - Unified configuration manager for AI coding assistants.

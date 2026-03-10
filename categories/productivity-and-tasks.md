@@ -1,8 +1,8 @@
-# Productivity & Tasks
+# Продуктивность и задачи
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**206 skills**
+**206 навыков**
 
 - [4to1-planner](https://github.com/openclaw/skills/tree/main/skills/qingxuantang/4to1-planner/SKILL.md) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.

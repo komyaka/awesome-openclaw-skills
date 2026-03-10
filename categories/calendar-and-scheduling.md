@@ -1,8 +1,8 @@
-# Calendar & Scheduling
+# Календарь и планирование
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**65 skills**
+**65 навыков**
 
 - [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
 - [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language.

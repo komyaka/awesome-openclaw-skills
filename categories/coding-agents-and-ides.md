@@ -1,8 +1,8 @@
-# Coding Agents & IDEs
+# Кодовые агенты и IDE
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**1223 skills**
+**1223 навыков**
 
 - [0g-compute](https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute/SKILL.md) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://github.com/openclaw/skills/tree/main/skills/0isone/0protocol/SKILL.md) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.

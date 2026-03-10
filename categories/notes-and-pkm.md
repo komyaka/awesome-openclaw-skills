@@ -1,8 +1,8 @@
-# Notes & PKM
+# Заметки и PKM
 
-[← Back to main list](../README.md#table-of-contents)
+[← Назад к основному списку](../README.md#table-of-contents)
 
-**71 skills**
+**71 навыков**
 
 - [acc-error-memory](https://github.com/openclaw/skills/tree/main/skills/impkind/acc-error-memory/SKILL.md) - Error pattern tracking for AI agents.
 - [agent-arena](https://github.com/openclaw/skills/tree/main/skills/minilozio/agent-arena/SKILL.md) - Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md)
